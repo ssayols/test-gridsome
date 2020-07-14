@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"7l0S":function(t,n,e){"use strict";e.r(n);var l={metaInfo:{title:"404"}},o=e("KHd+"),a=Object(o.a)(l,(function(){var t=this.$createElement,n=this._self._c||t;return n("Layout",[n("v-container",[n("v-row",[n("v-col",[n("h1",[this._v("404")])])],1)],1)],1)}),[],!1,null,null,null);n.default=a.exports}}]);
